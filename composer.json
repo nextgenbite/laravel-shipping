@@ -22,7 +22,7 @@
     ],
     "minimum-stability": "stable",
     "require": {
-        "php" : ">=^8.0",
+        "php" : "^7.3|^8.1",
         "ext-soap": "*",
         "openlss/lib-array2xml": "^1.0",
         "psr/log": "^3.0",
