@@ -1,5 +1,5 @@
 {
-    "name": "ivanmitrikeski/laravel-shipping",
+    "name": "nextgenbite/laravel-shipping",
     "description": "Shipping package for Laravel. Supported providers: CanadaPost, USPS, UPS, FedEx and Purolator.",
     "license": "MIT",
     "keywords": [
@@ -16,8 +16,8 @@
     ],
     "authors": [
         {
-            "name": "Ivan Mitrikeski",
-            "email": "ivan@mitrik.ca"
+            "name": "nextgenbite",
+            "email": "iliusrahman@gmail.com"
         }
     ],
     "minimum-stability": "stable",
