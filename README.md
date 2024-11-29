@@ -20,7 +20,7 @@ Supported API services:
 
 ### Install package
 ```bash
-composer require ivanmitrikeski/laravel-shipping
+composer require nextgenbite/laravel-shipping
 ```
 
 ### Run migrations

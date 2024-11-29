@@ -58,5 +58,11 @@
                 "Mitrik\\Shipping\\ShippingServiceProvider"
             ]
         }
+    },
+    "repositories": [
+    {
+        "type": "vcs",
+        "url": "https://github.com/nextgenbite/laravel-shipping"
     }
+]
 }
